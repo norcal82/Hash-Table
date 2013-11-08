@@ -119,10 +119,5 @@ void Hash::calcAvg(){
   newAvgListLen = sum/HASH_TABLE_SIZE;
   
   avgLength = (newAvgListLen + avgLength) / 2.0;
-  
-  //cout<<newAvgListLen<<" : "<<avgLength<<endl;
-  // for (int i = 0; i < HASH_TABLE_SIZE; i++)
-  //   cout<<arr[i]<<", ";
-  // cout<<endl;
 
 }
