@@ -1,6 +1,14 @@
 /* This assignment originated at UC Riverside. The hash table size
  should be defined at link time. Use -D HASH_TABLE_SIZE=X */
 
+/**
+ * @file Hash.h  all the function declarations and variables for the hash class.
+ * 
+ * @author Clint Bettiga
+ * @date 11/08/13
+ */
+
+
 #ifndef __HASH_H
 #define __HASH_H
 

@@ -16,7 +16,7 @@ main ( ) {
   cout << "-------------------------------------------------------------"
        << endl;
   cout << "Test 2 - processing input file" << endl;
-  hashTable.processFile ( "test1.txt" );
+  hashTable.processFile ( "dict5.txt" );
   hashTable.print ( );
   cout << "-------------------------------------------------------------"
        << endl;
